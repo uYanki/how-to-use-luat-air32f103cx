@@ -4,17 +4,17 @@
 
 刷完后使用  ST-Link Upgrade 升级下 stlink，模式自选即可。（注：ST-LInk 需装驱动才能用）
 
-![image-20230907232303805](.assest/README/image-20230907232303805.png)
+![4](.assest/README/4.png)
 
 然后再 keil 里的 ST-link Debugger 里再次更新。
 
-![image-20230907231805177](.assest/README/image-20230907231805177.png)
+![2](.assest/README/2.png)
 
-![image-20230907231858452](.assest/README/image-20230907231858452.png)
+![1](.assest/README/1.png)
 
 更新完成后，连接目标芯片
 
-![image-20230907232218120](.assest/README/image-20230907232218120.png)
+![3](.assest/README/3.png)
 
 
 
